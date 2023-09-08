@@ -6,12 +6,6 @@ export const TOKEN_CONTRACT_ABI = [
 			{
 				"indexed": true,
 				"internalType": "address",
-				"name": "owner",
-				"type": "address"
-			},
-			{
-				"indexed": true,
-				"internalType": "address",
 				"name": "spender",
 				"type": "address"
 			},
