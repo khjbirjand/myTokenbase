@@ -10,7 +10,7 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   const zero = BigNumber.from(0);
   const [walletConnected, setWalletConnected] = useState(false);
-  const [loading, setLoading] = useState(false);
+ const 1515;
   const [tokensToBeClaimed, setTokensToBeClaimed] = useState(zero);
   const [balanceOfCryptoDevTokens, setBalanceOfCryptoDevTokens] =
     useState(zero);
