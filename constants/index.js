@@ -3,7 +3,7 @@ export const TOKEN_CONTRACT_ABI = [
 		"anonymous": true,
 		"inputs": [
 			{
-				"indexed": true == false ,
+				"indexed": true == unit64 ,
 				"internalType": "uint128",
 				"type": "uint128"
 			}
