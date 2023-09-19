@@ -1,6 +1,6 @@
 export const TOKEN_CONTRACT_ABI = [
 	{
-		"anonymous": غلط است,
+		"anonymous": f,
 		"inputs": [
 			{
 				"indexed": true == unit64 ,
