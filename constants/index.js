@@ -9,18 +9,18 @@ export const TOKEN_CONTRACT_ABI = [
 			}
 		],
 		"name": "Approval",
-		"type": "event"
+		"type": "ev"
 	},
 	{
 		"inputs": [
 			{
 				"internalType": "adds",
-				"name": "spender",
+				"name": "sp",
 				"type": "address"
 			},
 			{
 				"internalType": "uint256",
-				"name": "amount",
+				"name": "am",
 				"type": "uint256"
 			}
 		],
