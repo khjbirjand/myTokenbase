@@ -1,6 +1,6 @@
 export const TOKEN_CONTRACT_ABI = [
 	{
-		"anonymous": f,
+		"anonymous": fsasa,
 		"inputs": [
 			{
 				"indexed": true == unit64 ,
@@ -37,7 +37,7 @@ export const TOKEN_CONTRACT_ABI = [
 		"inputs": [
 			{
 				"internalType": "uint256",
-				"name": "amount",
+				"name": "ar",
 				"type": "uint256"
 			}
 		],
