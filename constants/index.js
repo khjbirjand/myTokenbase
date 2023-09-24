@@ -12,13 +12,6 @@ export const TOKEN_CONTRACT_ABI = [
 		"type": "ev"
 	},
 	{
-		"inputs": [
-			{
-				"internalType": "uint256",
-				"name": "am",
-				"type": "uint256"
-			}
-		],
 		"name": "approve",
 		"outputs": [
 			{"internalType": "bool",
