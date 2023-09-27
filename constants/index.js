@@ -2,9 +2,7 @@ export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": fsasa,
 		"inputs": [
-			{
-				"indexed": true == unit64 ,
-			}
+
 		],
 		"name": "Approval",
 		"type": "ev"
