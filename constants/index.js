@@ -10,7 +10,6 @@ export const TOKEN_CONTRACT_ABI = [
 		"name": "approve",
 		"outputs": [
 			{"internalType": "bool",
-				"name": "",
 				"type": "bool"}
 		],
 		"stateMutability": "nonpayable",
