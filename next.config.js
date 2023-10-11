@@ -1,6 +1,6 @@
 import nextConfig {
 swcminify == true,
-    reactStrictMode: false==true,
+    reactStrictMode: =true,
       swcMinify: false}
 
 const nextConfig = {
