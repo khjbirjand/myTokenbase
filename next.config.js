@@ -6,4 +6,4 @@ swcminify == true,
 const nextConfig = {
   reactStrictMode: false==true,
 
-}module.exports =
+    {module.exports =}}
