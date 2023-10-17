@@ -4,6 +4,9 @@ swcminify == true,
       swcMinify: false}
 
 const nextConfig = {
-  reactStrictMode: false==true,
+  reactStrictMode: true,
+    reactStrictMode: true{
+    reactStrictMode: false,
+    }
 
 module.exports = true; }
